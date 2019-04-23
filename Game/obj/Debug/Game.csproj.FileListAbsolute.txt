@@ -1,0 +1,21 @@
+C:\Users\Filip\source\repos\Game github\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Filip\source\repos\Game github\Game\Game\bin\Debug\Game.exe
+C:\Users\Filip\source\repos\Game github\Game\Game\bin\Debug\Game.pdb
+C:\Users\Filip\source\repos\Game github\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Filip\source\repos\Game github\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Game github\Game\Game\obj\Debug\Game.exe
+C:\Users\Filip\source\repos\Game github\Game\Game\obj\Debug\Game.pdb
+C:\Users\Hule.Huleback9470\Dropbox\programmering\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Hule.Huleback9470\Dropbox\programmering\Game\Game\bin\Debug\Game.exe
+C:\Users\Hule.Huleback9470\Dropbox\programmering\Game\Game\bin\Debug\Game.pdb
+C:\Users\Hule.Huleback9470\Dropbox\programmering\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Hule.Huleback9470\Dropbox\programmering\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Hule.Huleback9470\Dropbox\programmering\Game\Game\obj\Debug\Game.exe
+C:\Users\Hule.Huleback9470\Dropbox\programmering\Game\Game\obj\Debug\Game.pdb
+C:\Users\Filip\Dropbox\programmering\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Filip\Dropbox\programmering\Game\Game\bin\Debug\Game.exe
+C:\Users\Filip\Dropbox\programmering\Game\Game\bin\Debug\Game.pdb
+C:\Users\Filip\Dropbox\programmering\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Dropbox\programmering\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Dropbox\programmering\Game\Game\obj\Debug\Game.exe
+C:\Users\Filip\Dropbox\programmering\Game\Game\obj\Debug\Game.pdb
